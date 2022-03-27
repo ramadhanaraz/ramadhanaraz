@@ -3,6 +3,7 @@ My name is **Azhar Yunda Ramadhan** or you could call me by my nicknames ***rama
 
 Here are some of ML project that I've done in the past : 
 - [Indonesian's Food Recognition using Tensorflow Keras](https://github.com/ramadhanaraz/indonesianfoodrecognition)
+- [ResNet50 Transfer Learning Demonstration](https://github.com/ramadhanaraz/ResNet50TransferLearningDemo)
 
 <p align="left">
 <a href="https://github.com/ramadhanaraz">
